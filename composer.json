@@ -1,0 +1,15 @@
+{
+    "name": "nicolefrankie/ipt10-strategy-pattern",
+    "autoload": {
+        "psr-4": {
+            "nicolefrankie\\Ipt10StrategyPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolefrankie",
+            "email": "colecapuno@gmail.com"
+        }
+    ],
+    "require": {}
+}
